@@ -50,7 +50,7 @@ If you use this dataset in your research, please cite it as follows:
 
 ## License
 
-MIT
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 ## Contact
@@ -59,4 +59,4 @@ MIT
 **Email:** *akil.elkamel@nbu.edu.sa*
 
 - Atef Gharbi, Department of Information Systems, Faculty of Computing and Information Technology, Northern Border University, Saudi Arabia.
-- **Email:** *atef.gharbi@nbu.edu.sa*
+**Email:** *atef.gharbi@nbu.edu.sa*
